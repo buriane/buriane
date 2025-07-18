@@ -33,7 +33,7 @@ const brian = {
            python: ["Django", "Flask"],
            databases: ["MySQL", "PostgreSQL", "MongoDB"]
        },
-       devOps: ["Docker", "AWS", "Vercel", "Netlify"],
+       devOps: ["Vercel", "Netlify"],
        tools: ["Git", "Figma", "VS Code", "Postman"]
    },
    currentFocus: "Building scalable web applications and exploring AI/ML",
