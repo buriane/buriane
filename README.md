@@ -41,10 +41,6 @@ const brian = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buriane&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
