@@ -31,9 +31,4 @@ const info = {
 
 ## my journey 🌱
 <!--START_SECTION:waka-->
-
-```text
-No WakaTime data yet. Stats will appear here once coding activity is tracked.
-```
-
 <!--END_SECTION:waka-->
