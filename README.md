@@ -8,7 +8,7 @@ Frontend Developer based in <b>Purwokerto, Indonesia.</b> I have experience usin
 const info = {
   name: ["Brian", "Bri", "Ian"],
   role: ["Full Stack Developer", "UI/UX Designer", "Data Analyst"],
-  langs: ["JavaScript", "TypeScript", "PHP", "Go"],
+  langs: ["JavaScript", "TypeScript", "PHP", "Go", "Python"],
   stack: {
     frontend: {
       frameworks: ["React.js", "Next.js"],
