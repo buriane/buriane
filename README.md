@@ -33,12 +33,13 @@ const info = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 19 April 2026
+From: 07 April 2026 - To: 20 April 2026
 
-Total Time: 38 mins
+Total Time: 1 hr 2 mins
 
-Markdown   26 mins               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   69.20 %
-Python     2 mins                ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.27 %
+Markdown   26 mins               ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.21 %
+Go         23 mins               ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.56 %
+Python     2 mins                ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.29 %
 ```
 
 <!--END_SECTION:waka-->
