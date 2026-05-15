@@ -33,14 +33,15 @@ const info = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 12 May 2026
+From: 13 December 2025 - To: 14 May 2026
 
-Total Time: 2 hrs 44 mins
+Total Time: 21 hrs 41 mins
 
-TypeScript   1 hr 23 mins          ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.52 %
-Markdown     29 mins               ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.64 %
-Go           23 mins               ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.12 %
-Git Config   6 mins                ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.73 %
+TypeScript       12 hrs 7 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   55.90 %
+JavaScript       2 hrs 39 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.28 %
+Go               2 hrs 33 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.82 %
+Markdown         1 hr 25 mins          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.55 %
+SQL              37 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.86 %
 ```
 
 <!--END_SECTION:waka-->
