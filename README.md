@@ -33,7 +33,7 @@ const info = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 14 May 2026
+From: 13 December 2025 - To: 15 May 2026
 
 Total Time: 21 hrs 41 mins
 
